@@ -1,4 +1,4 @@
-# EcomSdkDoc
+# Ecom Sdk Doc
 
 # Разделы 
 ### [Сценарий оплаты](https://sdkpay.github.io/EcomSdkDoc/Integration)
