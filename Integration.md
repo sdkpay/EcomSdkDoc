@@ -75,3 +75,7 @@ EcomSdk.Companion.getInstance().pay(ecomSdkMerchantOptionsConfig);
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+| Название | фывфыв | asddsa |
+| --- | --- | --- |
+| as | as | as |
+
