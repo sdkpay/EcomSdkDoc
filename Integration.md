@@ -79,3 +79,11 @@ EcomSdk.Companion.getInstance().pay(ecomSdkMerchantOptionsConfig);
 | --- | --- | --- |
 | as | as | as |
 
+| Параметр               | Тип                    | Обязательный |
+| ---------------------- | ---------------------- | ------------ |
+| context                | Context                | Да           |
+| stage                  | EcomSdkStage           | Да           |
+| disabledFeatures       | List\<EcomSdkFeature\> | Нет          |
+| enableLoggingByMerchant| Boolean                | Нет          |
+| callback               | (Boolean) -> Unit      | Да           |
+
